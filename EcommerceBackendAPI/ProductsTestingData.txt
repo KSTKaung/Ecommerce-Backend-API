@@ -1,0 +1,42 @@
+[
+    {
+        "productid": 101,
+        "name": "Wireless Mouse",
+        "type": "Electronics",
+        "price": 25.99,
+        "description": "A comfortable and wireless mouse with ergonomic design.",
+        "stockquantity": 150
+    },
+    {
+        "productid": 102,
+        "name": "Bluetooth Headphones",
+        "type": "Electronics",
+        "price": 79.99,
+        "description": "Noise-canceling over-ear headphones with excellent sound quality.",
+        "stockquantity": 75
+    },
+    {
+        "productid": 103,
+        "name": "Office Chair",
+        "type": "Furniture",
+        "price": 149.99,
+        "description": "An ergonomic office chair that provides comfort during long hours of work.",
+        "stockquantity": 40
+    },
+    {
+        "productid": 104,
+        "name": "Coffee Maker",
+        "type": "Appliances",
+        "price": 89.99,
+        "description": "A programmable coffee maker with a built-in grinder.",
+        "stockquantity": 60
+    },
+    {
+        "productid": 105,
+        "name": "Yoga Mat",
+        "type": "Fitness",
+        "price": 19.99,
+        "description": "A non-slip yoga mat for a comfortable workout experience.",
+        "stockquantity": 120
+    }
+]
