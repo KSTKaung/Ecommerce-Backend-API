@@ -49,4 +49,7 @@
    ![image](https://github.com/user-attachments/assets/45dbed17-71cb-4ca0-ba65-663e86383091)
 6. It will run as Java Application and if the following is displayed in Console, the backend API is successfully run with no errors and can start to test the Backend API.<br>
    ![image](https://github.com/user-attachments/assets/f1f55507-43d6-423b-a900-a40a4c588811)
-
+7. You can test the application on browser using following link.
+   ```
+   http://localhost:8094/swagger-ui/index.html#
+   ```
